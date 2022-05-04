@@ -3,8 +3,8 @@ typedef struct  sstudent
 {
   char          *name = "Augustin Cousin";
   unsigned int  age = 23;
-  char          *occupation = "42student";
   char          **languages = {"French", "English", "Japanese"};
+  char          **learning = {"Coding", "Japanese", "Mixed Martial Arts", "Drawing", "Guitar"};
   void          *relationships = NULL);
 };              tstudent
 ```
