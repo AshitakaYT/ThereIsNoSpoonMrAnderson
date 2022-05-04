@@ -11,12 +11,12 @@ typedef struct  sstudent
 
 My profile at [42 Lyon](https://42lyon.fr/):
 
-[![vsedat's 42 stats](https://badge42.vercel.app/api/v2/cl1kzq6n0001609iagycostl5/stats?cursusId=21&coalitionId=49)](https://github.com/JaeSeoKim/badge42)
+[![vsedat's 42 stats](https://badge42.vercel.app/api/v2/cl1kzq6n0001609iagycostl5/stats?cursusId=1&coalitionId=49)](https://github.com/JaeSeoKim/badge42)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/see_with_eyes_unclouded/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="see_with_eyes_unclouded" height="0" width="0" /></a>
-<a href="https://discord.gg/アシタカ#6699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="アシタカ#6699" height="0" width="0" /></a>
+<a href="https://www.instagram.com/see_with_eyes_unclouded/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="see_with_eyes_unclouded" height="30" width="30" /></a>
+<a href="https://discord.gg/アシタカ#6699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="アシタカ#6699" height="30" width="30" /></a>
  <a href="https://www.linkedin.com/in/augustin-cousin-159932193/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Augustin Cousin" height="30" width="30" /></a>
 </p>
 
