@@ -20,6 +20,7 @@ My profile at [42 Lyon](https://42lyon.fr/):
 <a href="https://discord.gg/アシタカ#6699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="アシタカ#6699" height="30" width="30" /></a>
  <a href="https://www.linkedin.com/in/augustin-cousin-159932193/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Augustin Cousin" height="30" width="30" /></a>
  <a href="https://www.youtube.com/channel/UCXAmaMZupMd29KKNHHkXvHA" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="Ashitaka" height="30" width="30" /></a>
+ <a href="https://twitter.com/ashitakaYT" target="blank"><img align="center" src="https://logo-marque.com/wp-content/uploads/2020/04/Twitter-Logo.png" alt="AshitakaYT" height="30" width="30" /></a>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
