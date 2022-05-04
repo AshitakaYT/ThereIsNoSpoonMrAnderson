@@ -13,9 +13,6 @@ My profile at [42 Lyon](https://42lyon.fr/):
 
 [![aucousin's 42 stats](https://badge42.vercel.app/api/v2/cl2r6jm5a000609mlh2n4cfly/stats?cursusId=21&coalitionId=49)](https://github.com/JaeSeoKim/badge42)
 
-[![aucousin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2r6jm5a000609mlh2n4cfly/project/2396775)](https://github.com/JaeSeoKim/badge42)
-[![aucousin's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2r6jm5a000609mlh2n4cfly/project/2443069)](https://github.com/JaeSeoKim/badge42)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
